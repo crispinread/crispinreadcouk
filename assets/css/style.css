@@ -292,10 +292,10 @@ a:hover, a:visited, a:focus, a:active{
     margin-left: 20px;
     margin-right: 20px;
     overflow: hidden;
-    border-style: solid;
+    /*border-style: solid;
     border-width: 1px;
     border-radius: 50%;
-    border-color: #cccccc;
+    border-color: #cccccc;*/
 }
 .menu-style1 .menu-li .name{
     text-underline: none;
